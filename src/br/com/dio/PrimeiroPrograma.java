@@ -6,7 +6,7 @@ public class PrimeiroPrograma {
 
     public static void main(String[] args) {
 
-        Gato gato = new Gato("bichano", "Grey", 5);
+        Gato gato = new Gato("bichano", "Cinza", 5);
 
         System.out.println(gato);
 

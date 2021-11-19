@@ -9,9 +9,9 @@ public class Calculadora {
 
         double a, b;
 
-        System.out.println("digite o primeiro número: ");
+        System.out.println("Digite o primeiro número: ");
         a = scan.nextDouble();
-        System.out.println("digite o segundo número: ");
+        System.out.println("Digite o segundo número: ");
         b = scan.nextDouble();
 
         double somar = somar(a, b);
